@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Massimo Miserendino
+email: miserendino [AT] yandex [DOT] com
+description: > # this means to ignore newlines until "baseurl:"
+  Questo sito vorrebbe essere d'aiuto a tutti gli aspiranti fisici che si accingono a
+  preparare gli esami di calcolo1 e TNDS.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://thgdfthrplay1993.github.io" # the base hostname & protocol for your site
+twitter_username: thgdfthrplay
+github_username:  thgdfthrplay1993
+
+# Build settings
+#markdown: kramdown
+markdown: redcarpet

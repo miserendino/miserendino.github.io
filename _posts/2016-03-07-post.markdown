@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Presentazione del materiale e pareri sui corsi"
+date:   2016-03-07 18:59:23 +0100
+categories: jekyll update
+---
+Sulla mia pagina Github sono presenti due repo per i corsi di informatica a fisica:
+[cacolo1][calcolo-1] e [calcolo2][calcolo-2].
+
+Riguardo la mia esperienza:
+
+  La migliore introduzione al C++ per i principianti per me è il [tutorial][tut] sul sito [cplusplus.com][cpp].
+  <br><br>
+  Il corso che più mi ha fatto apprezzare la pratica di programmazione e, in generale, più ambiti dell'informatica, è stato il [corso][prelz] del Prof. Prelz.<br> Consiglio ai veramente interessati di seguirlo, approfondimenti ne trovate a bizzeffe nelle sue slide, ad ogni modo ecco alcuni titoli sui quali penso possa valere la pena di spendere del tempo:<br>
+- un'[introduzione][CNR] alternativa al linguaggio del CNR di Bologna;<br>
+- [cplusplus.com][cpp] come ottima referenza per il linguaggio;<br>
+- [isocpp.org][iso] un'altra ottima referenza;<br>
+- tutti i libri possibili di Scott Meyers;<br>
+- la bibbia del C++ di Bjarne Stroustrup;<br>
+- per la STD esiste un libro lungo e interessante: The c++ standard library di Nicolai Josuttis;<br>
+- un ottimo strumento per scovare i memory leak è [valgrind][val];<br>
+- per il debugging dei programmi sarebbe molto utile approfondire le conoscenze di [GDB][gdb], per non parlare del profiling (con [gprof][gprof]).<br>
+Ci sono altri argomenti avanzati come la template metaprogramming, i vari standard del linguaggio che sono in continua evoluzione, la libreria [BOOST][boost] che arriva dove lo standard non è ancora arrivato, tenete conto che esistono diversi compilatori per il c++ una valida alternativa a g++ può essere [clang++][clang] per esempio; al momento non mi viene in mente altro, appena mi ricordo cosa ho dimenticato aggiungo mano a mano.
+Attualmente sto frequentando il corso di programmazione funzionale a informatica.
+
+[calcolo-1]: https://github.com/thgdfthrplay1993/calcolo1
+[calcolo-2]: https://github.com/thgdfthrplay1993/calcolo2
+[CNR]: http://www.bo.cnr.it/corsi-di-informatica/corsoCstandard/Lezioni/01Indice.html
+[cpp]: http://www.cplusplus.com
+[val]: http://valgrind.org
+[gdb]: https://www.gnu.org/software/gdb/
+[gprof]: https://sourceware.org/binutils/docs/gprof/
+[prelz]: http://labmaster.mi.infn.it/Laboratorio2/serale/
+[boost]: http://www.boost.org/
+[clang]: http://clang.llvm.org/
+[iso]: https://isocpp.org/
+[tut]: http://www.cplusplus.com/files/tutorial.pdf

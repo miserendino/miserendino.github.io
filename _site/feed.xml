@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Massimo Miserendino</title>
+    <description>Questo sito vorrebbe essere d&#39;aiuto a tutti gli aspiranti fisici che si accingono a preparare gli esami di calcolo1 e TNDS.
+</description>
+    <link>http://massimo-miserendino.rhcloud.com/</link>
+    <atom:link href="http://massimo-miserendino.rhcloud.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 08 Mar 2016 09:01:09 +0100</pubDate>
+    <lastBuildDate>Tue, 08 Mar 2016 09:01:09 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Presentazione del materiale e pareri sui corsi</title>
+        <description>&lt;p&gt;Sulla mia pagina Github sono presenti due repo per i corsi di informatica a fisica:
+&lt;a href=&quot;https://github.com/thgdfthrplay1993/calcolo1&quot;&gt;cacolo1&lt;/a&gt; e &lt;a href=&quot;https://github.com/thgdfthrplay1993/calcolo2&quot;&gt;calcolo2&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Riguardo la mia esperienza:&lt;/p&gt;
+
+&lt;p&gt;La migliore introduzione al C++ per i principianti per me è il &lt;a href=&quot;http://www.cplusplus.com/files/tutorial.pdf&quot;&gt;tutorial&lt;/a&gt; sul sito &lt;a href=&quot;http://www.cplusplus.com&quot;&gt;cplusplus.com&lt;/a&gt;.
+  &lt;br&gt;&lt;br&gt;
+  Il corso che più mi ha fatto apprezzare la pratica di programmazione e, in generale, più ambiti dell&amp;#39;informatica, è stato il &lt;a href=&quot;http://labmaster.mi.infn.it/Laboratorio2/serale/&quot;&gt;corso&lt;/a&gt; del Prof. Prelz.&lt;br&gt; Consiglio ai veramente interessati di seguirlo, approfondimenti ne trovate a bizzeffe nelle sue slide, ad ogni modo ecco alcuni titoli sui quali penso possa valere la pena di spendere del tempo:&lt;br&gt;
+- un&amp;#39;&lt;a href=&quot;http://www.bo.cnr.it/corsi-di-informatica/corsoCstandard/Lezioni/01Indice.html&quot;&gt;introduzione&lt;/a&gt; alternativa al linguaggio del CNR di Bologna;&lt;br&gt;
+- &lt;a href=&quot;http://www.cplusplus.com&quot;&gt;cplusplus.com&lt;/a&gt; come ottima referenza per il linguaggio;&lt;br&gt;
+- &lt;a href=&quot;https://isocpp.org/&quot;&gt;isocpp.org&lt;/a&gt; un&amp;#39;altra ottima referenza;&lt;br&gt;
+- tutti i libri possibili di Scott Meyers;&lt;br&gt;
+- la bibbia del C++ di Bjarne Stroustrup;&lt;br&gt;
+- per la STD esiste un libro lungo e interessante: The c++ standard library di Nicolai Josuttis;&lt;br&gt;
+- un ottimo strumento per scovare i memory leak è &lt;a href=&quot;http://valgrind.org&quot;&gt;valgrind&lt;/a&gt;;&lt;br&gt;
+- per il debugging dei programmi sarebbe molto utile approfondire le conoscenze di &lt;a href=&quot;https://www.gnu.org/software/gdb/&quot;&gt;GDB&lt;/a&gt;, per non parlare del profiling (con &lt;a href=&quot;https://sourceware.org/binutils/docs/gprof/&quot;&gt;gprof&lt;/a&gt;).&lt;br&gt;
+Ci sono altri argomenti avanzati come la template metaprogramming, i vari standard del linguaggio che sono in continua evoluzione, la libreria &lt;a href=&quot;http://www.boost.org/&quot;&gt;BOOST&lt;/a&gt; che arriva dove lo standard non è ancora arrivato, tenete conto che esistono diversi compilatori per il c++ una valida alternativa a g++ può essere &lt;a href=&quot;http://clang.llvm.org/&quot;&gt;clang++&lt;/a&gt; per esempio; al momento non mi viene in mente altro, appena mi ricordo cosa ho dimenticato aggiungo mano a mano.
+Attualmente sto frequentando il corso di programmazione funzionale a informatica.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Mar 2016 18:59:23 +0100</pubDate>
+        <link>http://massimo-miserendino.rhcloud.com/jekyll/update/2016/03/07/post.html</link>
+        <guid isPermaLink="true">http://massimo-miserendino.rhcloud.com/jekyll/update/2016/03/07/post.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
